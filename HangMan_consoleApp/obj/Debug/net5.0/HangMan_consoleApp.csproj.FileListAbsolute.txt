@@ -1,0 +1,16 @@
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\bin\Debug\net5.0\HangMan_consoleApp.exe
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\bin\Debug\net5.0\HangMan_consoleApp.deps.json
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\bin\Debug\net5.0\HangMan_consoleApp.runtimeconfig.json
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\bin\Debug\net5.0\HangMan_consoleApp.runtimeconfig.dev.json
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\bin\Debug\net5.0\HangMan_consoleApp.dll
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\bin\Debug\net5.0\ref\HangMan_consoleApp.dll
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\bin\Debug\net5.0\HangMan_consoleApp.pdb
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\obj\Debug\net5.0\HangMan_consoleApp.csproj.AssemblyReference.cache
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\obj\Debug\net5.0\HangMan_consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\obj\Debug\net5.0\HangMan_consoleApp.AssemblyInfoInputs.cache
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\obj\Debug\net5.0\HangMan_consoleApp.AssemblyInfo.cs
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\obj\Debug\net5.0\HangMan_consoleApp.csproj.CoreCompileInputs.cache
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\obj\Debug\net5.0\HangMan_consoleApp.dll
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\obj\Debug\net5.0\ref\HangMan_consoleApp.dll
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\obj\Debug\net5.0\HangMan_consoleApp.pdb
+C:\Users\adam.klemm\source\repos\HangMan_consoleApp\obj\Debug\net5.0\HangMan_consoleApp.genruntimeconfig.cache
